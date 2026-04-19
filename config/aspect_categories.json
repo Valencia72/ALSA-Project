@@ -1,0 +1,16 @@
+{
+  "aspects": [
+    "usefulness",
+    "performance",
+    "trust_reliability",
+    "creativity_productivity",
+    "frustration_limitations",
+    "emotional_impact",
+    "usability",
+    "societal_ethical",
+    "mental_health",
+    "efficiency",
+    "cost_value",
+    "privacy_security"
+  ]
+}
