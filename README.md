@@ -167,6 +167,8 @@ This allows the model to learn sentiment relative to a specific aspect.
 
 ## Models Used
 
+Note: Due to GitHub file size limitations, the trained DistilBERT model files (.safetensors and tokenizer files) are not included in this repository. The deployed model is hosted separately on Hugging Face Spaces for real-time inference and demonstration.
+
 # Model 1 — TF-IDF + LinearSVC
 
 Used as the traditional machine learning baseline.
