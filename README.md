@@ -273,7 +273,7 @@ System predicts:
 ### Live Demo
 
 Deployed successfully for real-time sentiment prediction.
-
+deployment link:https://huggingface.co/spaces/jerusha72/ALSA-Deploy
 ---
 
 ## Project Structure
